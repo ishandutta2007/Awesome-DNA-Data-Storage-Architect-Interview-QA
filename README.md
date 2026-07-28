@@ -1,6 +1,10 @@
-# Awesome DNA Data Storage Architect Interview Q&A
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome DNA Data Storage Banner" width="100%" />
+</div>
 
-A comprehensive, community-curated collection of **185+ interview questions and answers** for **DNA Data Storage Architect** roles — professionals who design end-to-end systems for encoding, synthesizing, storing, retrieving, and decoding digital information in DNA molecules, sitting at the intersection of information theory, molecular biology, DNA synthesis/sequencing engineering, and systems/storage architecture.
+# 🧬 Awesome DNA Data Storage Architect Interview Q&A 🔬
+
+A comprehensive, community-curated collection of **185+ interview questions and answers** 💡 for **DNA Data Storage Architect** roles 👩‍🔬👨‍💻 — professionals who design end-to-end systems for encoding 💾, synthesizing 🧪, storing 🗄️, retrieving 🔍, and decoding 🧩 digital information in DNA molecules, sitting at the intersection of information theory 📊, molecular biology 🦠, DNA synthesis/sequencing engineering ⚙️, and systems/storage architecture 🏗️.
 
 ## 📌 Overview
 
@@ -16,8 +20,8 @@ This repository covers:
 - ✅ Systems integration and the broader storage technology landscape
 - ✅ Industry context, cost trajectory, and application use cases
 
-**Estimated preparation time:** 30–50 hours
-**Interview duration:** Typically 4–6 rounds (3–5 hours total), often including an information theory/coding round and a systems design round
+⏱️ **Estimated preparation time:** 30–50 hours
+🗣️ **Interview duration:** Typically 4–6 rounds (3–5 hours total), often including an information theory/coding round 💻 and a systems design round 📐
 
 ---
 
